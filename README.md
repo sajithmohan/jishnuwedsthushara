@@ -6,3 +6,4 @@ single page weeding invitation website powerd by jquery,html and css and flask-t
  mobile and desktop versions suported
 
 website hosted at http://jishnuwedsthushara.tk/
+test
